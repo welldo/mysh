@@ -1,0 +1,2 @@
+#!/bin/sh
+ql repo https://github.com/welldo/KR.git "jd_|jx_|jdCookie" "activity|backUp" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JDJR"
